@@ -1,5 +1,8 @@
+Notes VIDEO 2
+***********
 npx does not install runs directly,
 parcel compresses the code all that it does is in video 2 after 1.5hr
 npx parcel build is for production builds
 ->cra and vite use bundlers in the background.
 -> Important for sytem design to make your app faster
+->
