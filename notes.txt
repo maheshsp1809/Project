@@ -5,4 +5,14 @@ parcel compresses the code all that it does is in video 2 after 1.5hr
 npx parcel build is for production builds
 ->cra and vite use bundlers in the background.
 -> Important for sytem design to make your app faster
-->
+
+Notes Video 3
+-> babel converts jsx to es6 its basicaly like a js compiler..
+->jsx and html are diffenrent jsx in itself is a new language written by fb devs beacuse writing code 
+  in core react seemed difficult for devs.
+->jsx stops cross site scripting attacks.. if u r calling any api to 
+  get data into const data variable and thne using it inside 
+   return statement using curly braces..
+
+Video 4 Notes:
+-> food delivery app
