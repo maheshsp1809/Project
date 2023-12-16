@@ -15,4 +15,14 @@ Notes Video 3
    return statement using curly braces..
 
 Video 4 Notes:
--> food delivery app
+->food delivery app
+->props are just like arguements to a function
+->
+
+Video 5 Note:
+->named exports to import constants 
+->any kind of file structure is not necessary 
+
+Video 1 Namaste js
+->Execution context
+->js is synchronous single theresded language
