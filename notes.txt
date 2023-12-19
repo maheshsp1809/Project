@@ -26,3 +26,8 @@ Video 5 Note:
 Video 1 Namaste js
 ->Execution context
 ->js is synchronous single theresded language
+
+video 4 to 18
+-> first order functions,
+-> closurs in js
+-> lexical environment
